@@ -11,6 +11,7 @@ YES: This project is considered safe from potential rugging (fraud) due to its K
 RISKS: The projects contract(s) have not been audited but have been published based on known open source contracts and while there is a risk of bugs or vulnerabilities we consider the risk to be low.
 </br>
 </br>
+</br>
 NOTES:</br>
 </br>
  At the time of this KYC/audit the contract(s), liquidity pool(s), deployer wallet(s) and other wallets that control minting, withdrawals and other key functions all belong to individuals who have passed our KYC standards.</br>
