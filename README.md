@@ -7,6 +7,7 @@ CONTRACT AUDIT COMPLETED: none</br>
 IS IT SAFE?</br>
 </br>
 YES: This project is considered safe from potential rugging (fraud) due to its KYC status.</br>
+</br>
 RISKS: The projects contract(s) have not been audited but have been published based on known open source contracts and while there is a risk of bugs or vulnerabilities we consider the risk to be low.
 </br>
 </br>
